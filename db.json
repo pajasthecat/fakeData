@@ -1,0 +1,24 @@
+{
+    "family": [
+        {
+            "id": 1,
+            "name": "Användare"
+        },
+        {
+            "id": 2,
+            "name": "Pappa Pelle"
+        },
+        {
+            "id": 1,
+            "name": "Mamma Mia"
+        },
+        {
+            "id": 1,
+            "name": "Morfar Mos"
+        },
+        {
+            "id": 1,
+            "name": "Mormor Moa"
+        }
+    ]
+}
