@@ -2,23 +2,33 @@
     "family": [
         {
             "id": 1,
-            "name": "Användare"
+            "name": "Användare",
+            "dateOfBirth": "1930-10-10",
+            "dateOfDeath": "1980-10-19"
         },
         {
             "id": 2,
-            "name": "Pappa Pelle"
+            "name": "Pappa Pelle",
+            "dateOfBirth": "1930-10-10",
+            "dateOfDeath": "1980-10-19"
         },
         {
             "id": 3,
-            "name": "Mamma Mia"
+            "name": "Mamma Mia",
+            "dateOfBirth": "1930-10-10",
+            "dateOfDeath": "1980-10-19"
         },
         {
             "id": 4,
-            "name": "Morfar Mos"
+            "name": "Morfar Mos",
+            "dateOfBirth": "1930-10-10",
+            "dateOfDeath": "1980-10-19"
         },
         {
             "id": 5,
-            "name": "Mormor Moa"
+            "name": "Mormor Moa",
+            "dateOfBirth": "1930-10-10",
+            "dateOfDeath": "1980-10-19" 
         }
     ]
 }
