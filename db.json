@@ -4,31 +4,41 @@
             "id": 1,
             "name": "Användare",
             "dateOfBirth": "1930-10-10",
-            "dateOfDeath": "1980-10-19"
+            "dateOfDeath": "1980-10-19",
+            "mother":"Mamma Mia",
+            "father": "Pappa Pelle"
         },
         {
             "id": 2,
             "name": "Pappa Pelle",
             "dateOfBirth": "1930-10-10",
-            "dateOfDeath": "1980-10-19"
+            "dateOfDeath": "1980-10-19",
+            "mother": "",
+            "father": ""
         },
         {
             "id": 3,
             "name": "Mamma Mia",
             "dateOfBirth": "1930-10-10",
-            "dateOfDeath": "1980-10-19"
+            "dateOfDeath": "1980-10-19",
+            "mother":"Mormor Moa",
+            "father": "Morfar Mos"
         },
         {
             "id": 4,
             "name": "Morfar Mos",
             "dateOfBirth": "1930-10-10",
-            "dateOfDeath": "1980-10-19"
+            "dateOfDeath": "1980-10-19",
+            "mother":"",
+            "father": ""
         },
         {
             "id": 5,
             "name": "Mormor Moa",
             "dateOfBirth": "1930-10-10",
-            "dateOfDeath": "1980-10-19" 
+            "dateOfDeath": "1980-10-19",
+            "mother":"",
+            "father": ""
         }
     ]
 }
