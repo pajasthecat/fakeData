@@ -12,9 +12,9 @@
             "id": 2,
             "name": "Pappa Pelle",
             "dateOfBirth": "1930-10-10",
-            "dateOfDeath": "1980-10-19",
-            "mother": "",
-            "father": ""
+            "dateOfDeath": "1980-10-19", 
+            "mother": "Farmor Loa",
+            "father": "Farfar Noa"
         },
         {
             "id": 3,
@@ -35,6 +35,22 @@
         {
             "id": 5,
             "name": "Mormor Moa",
+            "dateOfBirth": "1930-10-10",
+            "dateOfDeath": "1980-10-19",
+            "mother":"",
+            "father": ""
+        },
+        {
+            "id": 6,
+            "name": "Farmor Loa",
+            "dateOfBirth": "1930-10-10",
+            "dateOfDeath": "1980-10-19",
+            "mother":"",
+            "father": ""
+        },
+        {
+            "id": 7,
+            "name": "Farfar Noa",
             "dateOfBirth": "1930-10-10",
             "dateOfDeath": "1980-10-19",
             "mother":"",
